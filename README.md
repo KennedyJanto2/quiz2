@@ -1,6 +1,11 @@
 # quiz2
 CS 2600 - Systems Programming
 Programs:
+  -Lo Shu Magic Square:
+               -The Lo Shu Magic Square has the following properties: 
+                  •The grid contains the numbers 1 through 9 exactly. 
+                  •The sum of each row, each column, and each diagonal all add up to the same number. 
+
 
   -EmployeeSearch:
   
@@ -16,4 +21,4 @@ Programs:
                NOTE: employeeMain.c should be the same for both of the implementations above. 
 
 
-  -Lo Shu Magic Square:
+
